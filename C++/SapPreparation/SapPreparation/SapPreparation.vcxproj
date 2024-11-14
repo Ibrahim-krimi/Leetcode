@@ -130,8 +130,10 @@
     <ClCompile Include="file.cpp" />
     <ClCompile Include="list.cpp" />
     <ClCompile Include="map.cpp" />
+    <ClCompile Include="palidrome.cpp" />
     <ClCompile Include="pile.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="SimulationLumiere.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

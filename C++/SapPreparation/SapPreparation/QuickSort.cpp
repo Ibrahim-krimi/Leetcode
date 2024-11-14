@@ -39,7 +39,7 @@ vector<int> quicksort(vector<int>& tab, int l, int r) {
 	return tab; // Retourner le tableau trié
 }
 
-int main() {
+int ex7() {
 		
 	vector<int> tab = {3,2,25,3423,1,6,32,34};
 
