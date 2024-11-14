@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main() {
+int ex6() {
 	map<string,int> names;
 
 	names["Lola"] = 25;
